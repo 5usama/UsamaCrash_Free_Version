@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">𝐔𝐒𝐀𝐌𝐀𝐂𝐑𝐀𝐒𝐇_𝐅𝐑𝐄𝐄_𝐕𝐄𝐑𝐒𝐈𝐎𝐍 ⚡</h1>
-<h3 align="center">𝟏𝟎𝟎% 𝐂𝐑𝐀𝐒𝐇-𝐅𝐑𝐄𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓</h3>
+<h3 align="center">𝟏𝟎𝟎% 𝐂𝐑𝐀𝐒𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓</h3>
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/5usama/UsamaCrash_Free_Version?style=for-the-badge&color=00FF00">
@@ -23,11 +23,10 @@ npm start
 ```
 
 ## ⚡ **Features**
-- ✅ 100% Crash-Free System
+- ✅ 100% Crash System
 - ✅ Anti-Delete Protection  
 - ✅ Auto-React System
 - ✅ Welcome/Goodbye Messages
-- ✅ 500+ Commands
 - ✅ 24/7 Active
 - ✅ Zero Lag Performance
 
@@ -62,4 +61,4 @@ global.autoreact = true
 **GitHub:** [5usama](https://github.com/5usama)
 
 <p align="center">⭐ Star this repo if you like it! ⭐</p>
-<p align="center">Made with ❤️ in Pakistan</p>
+<p align="center">Made with ❤️ in Pakistan by Usama Dhuddi</p>
