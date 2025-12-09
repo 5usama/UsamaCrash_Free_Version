@@ -1,6 +1,7 @@
 const fs = require('fs')
 
 // >~~~~~~~~~~ Owner Setting ~~~~~~~~~~~< //
+global.botname = "UsamaCrash"
 global.autoReact = true
 global.antiDelete = true
 global.autostatusview = true
